@@ -32,7 +32,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "https://previews.dropbox.com/p/thumb/ACQ0wg_xEsU5gKzEMB7lcKCBkUpRY6embz1kJPZhDL7MlNkqI56ZvTu9PRdKWjZk9kW_xqZwmqMsxVuoikPWuTHH3ytWQC8HDkKhhFsgVqo4Kml5NnPRDQJxCbCegZF_IgWrfVtU1INRGZUZ_xiqWHexOt6O0s8c_md1dhuvjUaJEctEphS4vuLgDKF8SYTWPHHSYDptGH7kS9K1urGtnc58o8ytU9N_6GNDEUiiAo-oCeciVeBY_-mec4OqXvAIF-18OMOEgv0-Ki8O-tHLSBlUkGN_obiyTPfjFIl9XjpvxjcwEAUcvZEh3QQVMJ3qYOGjVy__hvR4GfyJ09inlet5VbQXJLGCHJQ02W3dk9oURw/p.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://github.com/KunjYadav/WebDev-Portfolio/blob/main/src/assets/images/ContentFull%20CMS.jpeg?raw=true?auto=compress&cs=tinysrgb&w=800",
     url: "https://contentful-k.netlify.app/",
     github: "https://github.com/KunjYadav/temp-contentful-app",
     title: "Contentful CMS",
@@ -40,7 +40,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://previews.dropbox.com/p/thumb/ACTaRzIrExmbm-kYHM9UrGmgXzOJcA-hJVfcctbHOkVKbeKFdqDMw0dxtU4exmDC5UVGQLQvMC_L8HTq1I_0BN2ZnC92qX0WhaS3pTU6tAJ6pXieDsH08zg9Tn7oPQPdzT6iXQ9GNczd91rMI3OYJ5JIm6EIoPnXXhhBjvoQXhMa6DCzi4-2O8oiwXPrnuqGgvMkYdS6Cbm2UXA7DcSr4TKDLNeiOIgXF-f354tEUpq3ol5hgQ_PbaHCSrF9xJ5ZKDBowNIVGgXE6zXhZh3KXGhx6Ww7pyY-kIL4uyjzawQrIM4jErH8bkkxohHiz4fdZniwMwWG9VhhK7yudR5bifsX/p.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://github.com/KunjYadav/WebDev-Portfolio/blob/main/src/assets/images/Unsplash%20Images.jpeg?raw=true?auto=compress&cs=tinysrgb&w=800",
     url: "https://kvite-images.netlify.app/",
     github: "https://github.com/KunjYadav/temp-vite-images",
     title: "Unsplash Images",
@@ -48,7 +48,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://previews.dropbox.com/p/thumb/ACR7Cah9yMTsZbu3vlnAJja23WdSaDa6CrWDU52GPRNi2z7Q68d5WtUIHJ9LaMdU2KFws2-JTWov_qMkJsEuHIDUsBvXKMoXmOlx4ear-AK3ZAkBJMlWLvTsHDxv2AnGLCoIJ86vrvELtyyMXFRhY7ajtdFIkxYy9WKoWginCaqVpQjoJvTa9SI-auEb7S2_V4g1GNFQZAzfKQsJbhXguVOhoEefFW2k36YFmynu3xxOXGChr_6TN3LeHm_gaOsMoODaZkq7ZiiemH7EDb2xUS6QtfIDuKlOpeBszfeRF7RTy1GmR8n1mR1DQKOtTp_r1jHLQNPXryBR-4LeeGQLRyvZ/p.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://github.com/KunjYadav/WebDev-Portfolio/blob/main/src/assets/images/MixMaster.jpeg?raw=true?auto=compress&cs=tinysrgb&w=800",
     url: "https://kdrink.netlify.app/",
     github: "https://github.com/KunjYadav/MixMaster-Drink-App",
     title: "MixMaster",
